@@ -1,9 +1,9 @@
 @echo off
 color 04
 title %random%%random% 
-::For Guard Iran error...
+
 ::check The File systems
-::for other tool join in BlackGuard 
+::And other ....
 ::----------------------------------------
 ::Got Admin(in win10 only...)
 
@@ -33,6 +33,7 @@ echo:
 	
 	
 ::----------------------------------------
+::Main
 :main
 mode con cols=128 lines=30
 echo                                      ----------Creator"mortza"-----------
