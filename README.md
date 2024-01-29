@@ -15,5 +15,3 @@ and....
 
 
 
-### Join BlackGuard For Other Tool!
-Good Luck!
